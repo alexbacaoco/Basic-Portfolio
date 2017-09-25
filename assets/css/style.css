@@ -1,0 +1,7 @@
+h1 {
+	float: left;
+	font-weight: italic;
+}
+li {
+	display: inline;
+}
